@@ -1,0 +1,5 @@
+cloud:
+    config:
+        fail-fast: false
+application:
+    message: Configured by Spring Cloud Config Server
